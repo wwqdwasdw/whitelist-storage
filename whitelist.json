@@ -1,11 +1,4 @@
 {
-  "users": {
-    "Hero_499": {
-      "expiry": 1774290520.8714683,
-      "added_by": "Local Manager",
-      "added_at": 1774204120.87147,
-      "duration": "1d"
-    }
-  },
+  "users": {},
   "hwids": {}
 }
