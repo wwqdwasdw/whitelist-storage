@@ -1,11 +1,4 @@
 {
-  "users": {
-    "frfrfrtey": {
-      "expiry": null,
-      "added_by": "Local Manager",
-      "added_at": 1774201578.7380595,
-      "duration": "permanent"
-    }
-  },
+  "users": {},
   "hwids": {}
 }
