@@ -7,5 +7,12 @@
       "duration": "permanent"
     }
   },
-  "hwids": {}
+  "hwids": {
+    "80a3a080-12e0-11eb-adee-806e6f6e6963": {
+      "expiry": 1775070977.6883156,
+      "added_by": "Local Manager",
+      "added_at": 1774206977.6883178,
+      "duration": "10d"
+    }
+  }
 }
