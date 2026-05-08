@@ -3,19 +3,13 @@
     "Okpleasethanks": {
       "expiry": null,
       "added_by": "Local Manager",
-      "added_at": 1774207150.8044183,
+      "added_at": 1774207161.61036,
       "duration": "permanent"
     },
     "NihoniumNeon": {
       "expiry": null,
       "added_by": "Local Manager",
       "added_at": 1774207150.8044183,
-      "duration": "permanent"
-    },
-    "Okpleasethanks": {
-      "expiry": null,
-      "added_by": "Local Manager",
-      "added_at": 1774207161.61036,
       "duration": "permanent"
     },
     "D1TFY": {
@@ -29,6 +23,12 @@
       "added_by": "Local Manager",
       "added_at": 1774287946.2000186,
       "duration": "permanent"
+    },
+    "dilldough": {
+      "expiry": 1778365928.7075717,
+      "added_by": "Local Manager",
+      "added_at": 1778279528.7075737,
+      "duration": "1d"
     }
   },
   "hwids": {
