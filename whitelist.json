@@ -29,6 +29,12 @@
       "added_by": "Local Manager",
       "added_at": 1778279657.8636582,
       "duration": "permanent"
+    },
+    "m60s_areBadForU": {
+      "expiry": null,
+      "added_by": "Local Manager",
+      "added_at": 1778324826.4744294,
+      "duration": "permanent"
     }
   },
   "hwids": {
